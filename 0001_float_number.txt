@@ -1,0 +1,1 @@
+In what situation, we will meet a nan? Can you provide some demo code?
